@@ -1,6 +1,6 @@
-//const path = require('path');
+const path = require('path');
 
-//const rootDir = require('../util/path');
+const rootDir = require('../util/path');
 
 
 exports.getAddProduct =(req, res, next) =>{
